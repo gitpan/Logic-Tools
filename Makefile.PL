@@ -17,5 +17,6 @@ WriteMakefile(
 			'Test::Pod::Coverage' => 1.08,
 			'Test::Fork' => 0.02,
 			'Config::IniFiles' => 2.75,
+			'Archive::Tar' => 1.58
                     },
 );
